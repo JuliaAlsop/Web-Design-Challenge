@@ -21,3 +21,7 @@ aside {
 aside > p {
   margin: .5rem;
 }
+
+<style>       
+  table, th, td {border: 1px solid black;}  
+</style>
